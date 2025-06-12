@@ -19,15 +19,16 @@ My small changes to the [onsetGlaze](https://github.com/abhidahal/onsetGlaze.flo
 
 
 ## ✅ Features
-Acrylic/Glass and Mica works  
-No bleeding corners!
+* Acrylic/Glass
+* Accent colors
+* No bleeding corners!
 
 
 ## 📃 How to install 
 
 * Visit the repo
 
-* Click on the theme file (`Ebamba.xaml`)
+* Click on the theme file (`MinFlow.xaml`)
 
 * Click "Raw"
 
